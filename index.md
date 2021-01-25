@@ -2,5 +2,9 @@
 layout: default
 ---
  
-# Kotulc
-### Well hello world
+# Curriculum Vitae
+### Experience
+### Employment
+### Education
+### Skills
+### Projects
