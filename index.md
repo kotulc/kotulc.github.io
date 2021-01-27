@@ -56,7 +56,8 @@ Updated financial portal security; tracked, tested, and documented software upda
 
 
 ## Education
-**Rensselaer Polytechnic Institute**, *Troy, New York — 2006 to 2010*
+**Rensselaer Polytechnic Institute** 
+*Troy, New York — 2006 to 2010*
 B.S. in Computer Science and Information Technology
 Concentration in Human-Computer Interaction (dual major)
 3.69 / 4.0 cumulative GPA
