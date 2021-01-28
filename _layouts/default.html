@@ -69,6 +69,13 @@
         <p><small>Posted January 26th, 2021<br><i>Hosted on GitHub Pages</i></small></p>
       </footer>
     </div>
+    <script>
+        $('.nav a').each(function() {
+            if ($(this).attr('href') == location.href.split("/").slice(-1)){ 
+                $(this).addClass('current'); 
+            }
+        });
+    </script>  
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>

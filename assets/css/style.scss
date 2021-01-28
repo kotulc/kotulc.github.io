@@ -8,6 +8,10 @@ h2 {
     margin-top: 50px;
 }
 
+header nav {
+    margin-top: 36px;
+}
+
 header nav ul a .current {
     background-color: black;
 }
@@ -31,6 +35,7 @@ header li {
     float: none;
     border-right: none;
     height: auto;
+    margin-bottom: 6px;
 }
 
 header ul {
