@@ -4,11 +4,11 @@
 @import "{{ site.theme }}";
 
 
-.nav ul .current {
+header nav ul a .current {
     background-color: black;
 }
 
-nav ul a {
+header nav ul a {
     color: #2e6b95;
     font-size: 18px;
     font-weight: bold;
