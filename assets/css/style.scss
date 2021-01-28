@@ -12,3 +12,21 @@
 .nav .current {
     background-color: black;
 }
+
+header li {
+    width: auto;
+    float: none;
+    border-right: none;
+    height: auto;
+}
+
+header ul {
+    height: auto;
+    background: none;
+    border: none;
+}
+
+header ul a{
+    font-size: 14px;
+    display: inline;
+}
