@@ -49,7 +49,7 @@ Jupyter notebooks focusing on machine learning and data visualizations.
 An automated Machine Learning pipeline built with Scikit-learn.  
 
 **Front Range Wheel Works LLC**  
-[frwheelworks.com](https://www.frwheelworks.com/) — 2017 
+[frwheelworks.com](https://www.frwheelworks.com/) — 2017  
 Concept wheel building and storefront site. Wordpress, PHP and Woocommerce. Recently re-built with a simpler front end and no commerce component.  
 
 
