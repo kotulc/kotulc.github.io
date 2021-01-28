@@ -4,14 +4,14 @@
 @import "{{ site.theme }}";
 
 
-.nav ul a {
-    color: #2e6b95;
-    font-size: 18;
-    font-weight: bold;
-}
-
 .nav ul .current {
     background-color: black;
+}
+
+nav ul a {
+    color: #2e6b95;
+    font-size: 18px;
+    font-weight: bold;
 }
 
 header h1 a {
