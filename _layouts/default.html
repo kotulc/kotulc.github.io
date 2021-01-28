@@ -23,7 +23,7 @@
         {% endif %}
 
         <p>
-            <a href="https://github.com/kotulc">github.com/kotulc</a><br>
+            <a href="https://github.com/kotulc"><b>github.com/kotulc</b></a><br>
             <!-- Disable this {{ site.description | default: site.github.project_tagline }} -->
         </p>
 
@@ -32,13 +32,13 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p>
-            You can also find me at:<br>
-          <a href="https://bitbucket.org/kotulc/">bitbucket.org/kotulc</a><br>
-          <a href="https://www.linkedin.com/in/clayton-kotulak/">linkedin.com/in/clayton-kotulak</a><br>
-          <a href="https://www.frwheelworks.com/">frwheelworks.com</a><br>
-          <a href="http://www.destinationmtb.com/">destinationmtb.com</a>
-        </p>
+        <ul>
+            <li>You can also find me at:</li>
+            <li><a href="https://bitbucket.org/kotulc/">bitbucket.org/kotulc</a></li>
+            <li><a href="https://www.linkedin.com/in/clayton-kotulak/">linkedin.com/in/clayton-kotulak</a></li>
+            <li><a href="https://www.frwheelworks.com/">frwheelworks.com</a></li>
+            <li><a href="http://www.destinationmtb.com/">destinationmtb.com</a></li>
+        </ul>
         {% endif %}
 
         {% if site.show_downloads %}
@@ -48,12 +48,14 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-        <nav><p>
-            <a href="/">About</a><br>
-            <a href="/">Curriculum Vitae</a><br>
-            <a href="/projects/">Notebooks</a><br>
-            <a href="/visualizations/">Visualizations</a>
-            </p>
+          
+        <nav>
+            <ul class="nav">
+                <a href="/">About</a><br>
+                <a href="/cv/">Curriculum Vitae</a><br>
+                <a href="/projects/">Notebooks</a><br>
+                <a href="/visualizations/">Visualizations</a>
+            </ul>
         </nav>
       </header>
       <section>

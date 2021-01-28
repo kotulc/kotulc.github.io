@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+.nav a{
+    color: darkblue;
+    font-weight: 800;
+}
+
+.nav .current {
+    background-color: black;
+}
