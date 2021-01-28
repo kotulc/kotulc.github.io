@@ -45,6 +45,12 @@ header ul a {
     color: #267CB9;
 }
 
+header ul img {
+    max-width: 20px;
+    margin: 4px 6px;
+    vertical-align: middle;
+}
+
 header ul li + li + li {
     border-right: none;
     width: auto;
