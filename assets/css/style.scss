@@ -22,11 +22,16 @@ header li {
 
 header ul {
     height: auto;
-    background: none;
+    background: white;
     border: none;
 }
 
-header ul a{
+header ul a {
     font-size: 14px;
     display: inline;
+}
+
+header ul li + li + li {
+    border-right: none;
+    width: auto;
 }
