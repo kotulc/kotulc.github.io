@@ -36,21 +36,21 @@ Private Repository (more information on request) — 2019 to Present
 A framework for experimenting with various methods of self-organization and recurrent neural network signal
 processing.  
 
-**Neural Network Visualizations**  
+**Animated Matplotlib Visualizations**  
 [github.com/kotulc/visualizations](https://github.com/kotulc?tab=repositories) — 2019 to Present  
-Active development of a suite of visualization tools for artificial neural networks.  
+A framework for displaying and animating collections of Matplotlib components. 
 
 **Visualizations and Related Notebooks**  
 [github.com/kotulc/notebooks](https://github.com/kotulc/notebooks) — 2020  
-Jupyter notebooks for Machine Learning and Data Visualization with Python.  
-
-**Front Range Wheel Works LLC**  
-[frwheelworks.com](https://www.frwheelworks.com/) — 2017 and 2020  
-Concept wheel building and storefront site. Wordpress, PHP and Woocommerce. Recently re-built with a simpler front end and no commerce component.  
+Jupyter notebooks focusing on machine learning and data visualizations.   
 
 **Adaptive ML Pipeline**  
 [bitbucket.org/kotulc/pipeline](https://bitbucket.org/kotulc/pipeline/) — 2019  
 An automated Machine Learning pipeline built with Scikit-learn.  
+
+**Front Range Wheel Works LLC**  
+[frwheelworks.com](https://www.frwheelworks.com/) — 2017 
+Concept wheel building and storefront site. Wordpress, PHP and Woocommerce. Recently re-built with a simpler front end and no commerce component.  
 
 
 ## Work history
