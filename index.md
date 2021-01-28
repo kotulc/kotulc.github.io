@@ -37,19 +37,19 @@ A framework for experimenting with various methods of self-organization and recu
 processing.  
 
 **Neural Network Visualizations**  
-https://github.com/kotulc?tab=repositories — 2019 to Present  
+[github.com/kotulc/visualizations](https://github.com/kotulc?tab=repositories) — 2019 to Present  
 Active development of a suite of visualization tools for artificial neural networks.  
 
 **Visualizations and Related Notebooks**  
-https://github.com/kotulc/notebooks — 2020  
+[github.com/kotulc/notebooks](https://github.com/kotulc/notebooks) — 2020  
 Jupyter notebooks for Machine Learning and Data Visualization with Python.  
 
 **Front Range Wheel Works LLC**  
-https://www.frwheelworks.com/ — 2017 and 2020  
+[frwheelworks.com](https://www.frwheelworks.com/) — 2017 and 2020  
 Concept wheel building and storefront site. Wordpress, PHP and Woocommerce. Recently re-built with a simpler front end and no commerce component.  
 
 **Adaptive ML Pipeline**  
-https://bitbucket.org/kotulc/pipeline/ — 2019  
+[bitbucket.org/kotulc/pipeline]https://bitbucket.org/kotulc/pipeline/ — 2019  
 An automated Machine Learning pipeline built with Scikit-learn.  
 
 
