@@ -4,10 +4,12 @@ layout: default
 
 # Curriculum Vitae
 
+
 ## Executive summary
 I am an IT professional with over 10 years of industry experience ranging from software development to project management to technical support and user training. I have a passion for problem solving and data; two elements that I have found practically inseparable. Collecting quality information, clear and consistent communication, and learning to ask the right questions are skills that form the foundation of my work.  
 
-##### *Each of the following categories are ordered by familiarity, from most to least familiar*
+*Each of the following categories are ordered by familiarity, from most to least familiar. All remaining sections are ordered by date.*  
+
 
 ## Technologies and skills
 Programming - Python, Octave, C++, C#, C, Java, Regex, PHP  
@@ -26,6 +28,30 @@ Networking - Cisco, Unity (VoIP), CCNA (Expired)
 Web development - Markdown, HTML, XML, CSS, D3, Heroku, AWS  
 Database - PostgreSQL, SQL, SQLServer  
 Containerization - Docker, Kubernetes  
+
+
+## Recent projects
+**Self-organizing Recurrent Networks**  
+Private Repository (more information on request) — 2019 to Present  
+A framework for experimenting with various methods of self-organization and recurrent neural network signal
+processing.  
+
+**Neural Network Visualizations**  
+https://github.com/kotulc?tab=repositories — 2019 to Present  
+Active development of a suite of visualization tools for artificial neural networks.  
+
+**Visualizations and Related Notebooks**  
+https://github.com/kotulc/notebooks — 2020  
+Jupyter notebooks for Machine Learning and Data Visualization with Python.  
+
+**Front Range Wheel Works LLC**  
+https://www.frwheelworks.com/ — 2017 and 2020  
+Concept wheel building and storefront site. Wordpress, PHP and Woocommerce. Recently re-built with a simpler front end and no commerce component.  
+
+**Adaptive ML Pipeline**  
+https://bitbucket.org/kotulc/pipeline/ — 2019  
+An automated Machine Learning pipeline built with Scikit-learn.  
+
 
 ## Work history
 **Technical Support Specialist Sr.**  
@@ -48,26 +74,10 @@ The Ayco Company, L.P.
 *Albany, NY — 2008 to 2009*  
 Updated financial portal security; tracked, tested, and documented software updates. ASP.NET and C# Programming experience.  
 
+
 ## Education
 **Rensselaer Polytechnic Institute**  
 *Troy, New York — 2006 to 2010*  
 B.S. in Computer Science and Information Technology  
 Concentration in Human-Computer Interaction (dual major)  
 3.69 / 4.0 cumulative GPA  
-
-## Recent projects
-**Neural Network Visualizations**  
-github.com/kotulc/notebooks — 2019 to Present  
-Active development of a suite of visualization tools for artificial neural networks.  
-
-**Front Range Wheel Works LLC**  
-frwheelworks.com — 2017 and 2020  
-Concept wheel building and storefront site. Wordpress, PHP and Woocommerce. Recently re-built with a simpler front end and no commerce component.  
-
-**Adaptive ML Pipeline**  
-Private Repository — 2019  
-An automated Machine Learning pipeline built with Scikit-learn.  
-
-**Genetic Network Search**  
-github.com/kotulc/geneticsearch — 2016  
-Evolutionary search of an “Echo State Network” hyper parameter space.  
