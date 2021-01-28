@@ -15,9 +15,9 @@
    height="159"
    viewBox="0 0 195 159"
    sodipodi:docname="k_logo.svg"
-   inkscape:export-filename="D:\kotulc.github.io\k_logo.png"
-   inkscape:export-xdpi="335.10938"
-   inkscape:export-ydpi="335.10938"
+   inkscape:export-filename="D:\kotulc.github.io\k_logo_black.png"
+   inkscape:export-xdpi="378.22815"
+   inkscape:export-ydpi="378.22815"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata4524">
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -47,8 +47,8 @@
      id="namedview4520"
      showgrid="false"
      inkscape:zoom="3.6378198"
-     inkscape:cx="82.895174"
-     inkscape:cy="69.601191"
+     inkscape:cx="36.026442"
+     inkscape:cy="70.052314"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -56,25 +56,32 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 1" />
+     inkscape:label="Layer 1"
+     style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Mask"
      style="opacity:1">
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.27318001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path817"
+       cx="76.419395"
+       cy="80.793808"
+       r="76.144508" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4544"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;opacity:1"
-       transform="matrix(3.593094,0,0,2.0670414,-132.00392,-71.642647)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(2.4098917,0,0,1.3863667,-78.05316,-21.01678)"><flowRegion
          id="flowRegion4546"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';fill:#000000"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';fill:#ffffff;fill-opacity:1"><rect
            id="rect4548"
            width="170.98154"
            height="175.92955"
            x="36.835251"
            y="20.455479"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';fill:#000000" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara4550"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';fill:#000000">k</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';fill:#ffffff;fill-opacity:1">k</flowPara></flowRoot>  </g>
 </svg>

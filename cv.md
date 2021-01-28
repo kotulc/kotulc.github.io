@@ -48,9 +48,9 @@ Jupyter notebooks focusing on machine learning and data visualizations.
 [bitbucket.org/kotulc/pipeline](https://bitbucket.org/kotulc/pipeline/) — 2019  
 An automated Machine Learning pipeline built with Scikit-learn.  
 
-**Front Range Wheel Works LLC**  
+**Front Range Wheel Works**  
 [frwheelworks.com](https://www.frwheelworks.com/) — 2017  
-Concept wheel building and storefront site. Wordpress, PHP and Woocommerce. Recently re-built with a simpler front end and no commerce component.  
+Concept wheel building and storefront site. Wordpress, PHP and Woocommerce. Recently re-built with a simpler blog-style front end and no commerce components.  
 
 
 ## Work history

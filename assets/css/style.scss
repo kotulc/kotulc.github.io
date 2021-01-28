@@ -4,6 +4,10 @@
 @import "{{ site.theme }}";
 
 
+h2 {
+    margin-top: 50px;
+}
+
 header nav ul a .current {
     background-color: black;
 }
@@ -13,6 +17,11 @@ header nav ul a {
     font-size: 18px;
     font-weight: bold;
 }
+
+header nav ul a {
+    margin-top: 6px;
+}
+
 
 header h1 a {
     color: #2e6b95;
