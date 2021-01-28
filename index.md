@@ -49,7 +49,7 @@ Jupyter notebooks for Machine Learning and Data Visualization with Python.
 Concept wheel building and storefront site. Wordpress, PHP and Woocommerce. Recently re-built with a simpler front end and no commerce component.  
 
 **Adaptive ML Pipeline**  
-[bitbucket.org/kotulc/pipeline]https://bitbucket.org/kotulc/pipeline/ — 2019  
+[bitbucket.org/kotulc/pipeline](https://bitbucket.org/kotulc/pipeline/) — 2019  
 An automated Machine Learning pipeline built with Scikit-learn.  
 
 
