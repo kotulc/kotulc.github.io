@@ -53,7 +53,7 @@ An automated Machine Learning pipeline built with Scikit-learn.
 Concept wheel building and storefront site. Wordpress, PHP and Woocommerce. Recently re-built with a simpler blog-style front end and no commerce components.  
 
 
-## Work history
+## Employment history
 **Technical Support Specialist Sr.**  
 Jefferson County Public Health  
 *Lakewood, CO — 2012 to Present*  
