@@ -4,13 +4,13 @@
 @import "{{ site.theme }}";
 
 
-.nav a {
+.nav ul a {
     color: #2e6b95;
     font-size: 18;
     font-weight: bold;
 }
 
-.nav .current {
+.nav ul .current {
     background-color: black;
 }
 
