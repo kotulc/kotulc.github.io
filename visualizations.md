@@ -4,18 +4,18 @@ layout: default
 
 # Visualizations
 
-<iframe width="500" height="350"
-    src="https://www.youtube.com/playlist?list=PLEdChgWgMikRklosGSdQG6m57HPVQAxdc">
-</iframe> 
+For complete documentation and the project source, please see the [github repository](https://github.com/kotulc/visualizations)  
 
-As of the current release, the following screenshots are from the subnet_visualize module:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-OR9d1LxbUw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![node visualization](https://github.com/kotulc/visualizations/blob/master/screenshots/layer_v8.1.png)
-![layer visualization](https://github.com/kotulc/visualizations/blob/master/screenshots/node_v8.3.png)
-![layer visualization](https://github.com/kotulc/visualizations/blob/master/screenshots/node_v8.4.png)
+As of the current release, the following screenshots are from the subnet_visualize module:  
 
-Below are a few samples of older visualizations from previous versions of this project:
+![node visualization](https://github.com/kotulc/visualizations/blob/master/screenshots/layer_v8.1.png)  
+![layer visualization](https://github.com/kotulc/visualizations/blob/master/screenshots/node_v8.3.png)  
+![layer visualization](https://github.com/kotulc/visualizations/blob/master/screenshots/node_v8.4.png)  
 
-![layer visualization](https://github.com/kotulc/visualizations/blob/master/screenshots/node_v2.3.png)
-![layer visualization](https://github.com/kotulc/visualizations/blob/master/screenshots/node_v4.0.png)
-![layer visualization](https://github.com/kotulc/visualizations/blob/master/screenshots/node_v7.6.png)
+Below are a few samples of older visualizations from previous versions of this project:  
+
+![layer visualization](https://github.com/kotulc/visualizations/blob/master/screenshots/node_v2.3.png)  
+![layer visualization](https://github.com/kotulc/visualizations/blob/master/screenshots/node_v4.0.png)  
+![layer visualization](https://github.com/kotulc/visualizations/blob/master/screenshots/node_v7.6.png)  
