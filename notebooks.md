@@ -8,21 +8,18 @@ I have found Jupyter Notebooks to be a great tool for learning new libraries and
 
 ## net_charts
 
-[Static version](/notebooks/net_charts.html)
-[Interactive version](https://nbviewer.jupyter.org/github/kotulc/notebooks/blob/master/net_charts.ipynb)
-
-![net_charts thumbnail](/images/net_charts.png)
+[Static version](/notebooks/net_charts.html)  
+[Interactive version](https://nbviewer.jupyter.org/github/kotulc/notebooks/blob/master/net_charts.ipynb)  
+![net_charts thumbnail](/images/net_charts.png)  
 
 ## net_graph
 
-[Static version](/notebooks/net_graph.html)
-[Interactive version](https://nbviewer.jupyter.org/github/kotulc/notebooks/blob/master/net_graph.ipynb)
-
-![net_graph thumbnail](/images/net_graph.png)
+[Static version](/notebooks/net_graph.html)  
+[Interactive version](https://nbviewer.jupyter.org/github/kotulc/notebooks/blob/master/net_graph.ipynb)  
+![net_graph thumbnail](/images/net_graph.png)  
 
 ## scikit_pipelines
 
-[Static version](/notebooks/scikit_pipelines.html)
-[Interactive version](https://nbviewer.jupyter.org/github/kotulc/notebooks/blob/master/scikit_pipelines.ipynb)
-
-![pipelines thumbnail](/images/pipeline.png)
+[Static version](/notebooks/scikit_pipelines.html)  
+[Interactive version](https://nbviewer.jupyter.org/github/kotulc/notebooks/blob/master/scikit_pipelines.ipynb)  
+![pipelines thumbnail](/images/pipeline.png)  
