@@ -6,7 +6,7 @@ layout: default
 
 For complete documentation and the project source, please see the [github repository](https://github.com/kotulc/visualizations)  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-OR9d1LxbUw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/playlist?list=PLEdChgWgMikRklosGSdQG6m57HPVQAxdc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ## Screenshots
 As of the current release, the following screenshots are from the subnet_visualize module:  
