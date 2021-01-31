@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 'Visualizations' Project Page
+# *Visualizations* Project Page
 
 The goal of this project is to create a convienent framework for combining and animating matplotlib components (subplots) concurrently. The final combined plot is akin to a dashboard with the single purpose of displaying multiple subplots, each with one or more different sources of sequential data.  
 
