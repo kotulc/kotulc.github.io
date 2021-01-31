@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Visualizations
+# 'Visualizations' Project Page
 
 The goal of this project is to create a convienent framework for combining and animating matplotlib components (subplots) concurrently. The final combined plot is akin to a dashboard with the single purpose of displaying multiple subplots, each with one or more different sources of sequential data.  
 
@@ -10,7 +10,7 @@ Component subplots may be updated on a step or sub-step schedule, meaning that s
 
 For more information, find this project on [Github](https://github.com/kotulc/visualizations)  
 
-<iframe width="560" height="315" src="https://www.youtube.com/playlist?list=PLEdChgWgMikRklosGSdQG6m57HPVQAxdc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R8i-ZYlUobw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 
 ## Screenshots
 As of the current release, the following screenshots are from the subnet_visualize module:  
