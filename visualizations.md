@@ -6,9 +6,9 @@ layout: default
 
 The goal of this project is to create a convienent framework for combining and animating matplotlib components (subplots) concurrently. The final combined plot is akin to a dashboard with the single purpose of displaying multiple subplots, each with one or more different sources of sequential data.  
 
-Component subplots may be updated on a step or sub-step schedule, meaning that select subplots can display information at different rates or resolutions. The sub-step animation support provides an additional layer of flexibilty when displaying sequential data that may have been collected at different intervals. For more information regarding use and functionality please see the project wiki page.  
+Component subplots may be updated on a step or sub-step schedule, meaning that select subplots can display information at different rates or resolutions. The sub-step animation support provides an additional layer of flexibilty when displaying sequential data that may have been collected at different intervals. For more information regarding use and functionality please see the project wiki page (this should be added shortly).  
 
-For more information, find this project on [Github](https://github.com/kotulc/visualizations)  
+Find the source and documentation for this project on [Github](https://github.com/kotulc/visualizations)  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R8i-ZYlUobw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 
