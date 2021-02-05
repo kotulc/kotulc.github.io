@@ -13,28 +13,28 @@ I am an IT professional with over 10 years of industry experience ranging from s
 
 ## Technologies and skills
 
-#### Software Development
+**Software Development**
 Programming - Python, C++, C#, C, Matlab/Octave, Java, Regex, SQL  
-Libraries - Numpy, Matplotlib, Pytorch, Plotly, Pandas, Scikit, Dash, Tensorflow  
-Documentation - user guides, requirements, APIs (Sphinx), installation, process  
-Development environments - PyCharm, Jupyter Notebook, RStudio, Visual Studio  
+Libraries - Numpy, Matplotlib, Pytorch, Plotly, Pandas, Scikit, Tensorflow  
+Documentation - user guides, requirements, APIs (Sphinx), process  
+Development environments - PyCharm, Jupyter Notebook, RStudio   
 Testing - Unit (PyUnit), Operational, A/B, Doctests  
 Version control - Git, Github, Bitbucket, Subversion  
 
-#### Machine Learning
+**Machine Learning**
 Interests - artificial neural networks, computer vision, deep learning, NLP  
 Models - ANN, classification, regression, forest/ensemble, generative  
 Skills - visualization, vectorization, research, encoding  
 Feature engineering - cleaning, imputation, normalization, transformation  
 Data sets - MNIST, Wordnet, Black Box, Kaggle House, ImageNet  
 
-#### Information Technology
+**Information Technology**
 Operating Systems - Windows, iOS, Android, Ubuntu, macOS  
 Web development - DOM, Markdown, HTML, XML, CSS, JSON, D3, Heroku  
 Hardware - desktop, mobile, Audio/Visual, printing, network  
 System Administration - AD, Exchange, Entrust, Exchange, O365, Airwatch  
-Content Management Systems - Wordpress, ServiceNow, Sharepoint, Drupal  
-Deployment - SCCM, Airwatch, SmartDeploy, Containerization (Docker), VMware  
+Content Management Systems - Wordpress, ServiceNow, Sharepoint  
+Deployment - SCCM, Airwatch, Containerization (Docker), VMware  
 Networking - Cisco, Unity (VoIP), CCNA (Expired)  
 
 
