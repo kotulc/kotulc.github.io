@@ -12,33 +12,40 @@ I am an IT professional with over 10 years of industry experience ranging from s
 
 
 ## Technologies and skills
-Programming - Python, Octave, C++, C#, C, Java, Regex, PHP  
-Libraries - Numpy, Pytorch, Plotly, Dash, Tensorflow, Pandas, Scikit  
-Machine Learning - ANN, NLP, Computer Vision, Kaggle  
-Hardware - Desktop, Mobile, Audio/Visual, Printing, Network  
-System Administration - AD, Airwatch, Exchange, O365, SCCM  
-Version Control - Git, Github, Bitbucket, Subversion  
-Data Engineering - Linear Algebra, Feature Engineering, Statistical Analysis   
-Testing - Unit (PyUnit), Operational, A/B, Penetration  
-Image and application deployment - SCCM, SmartDeploy  
-Content Management Systems - Wordpress, ServiceNow, PRISM, Drupal  
-Development environments - PyCharm, Jupyter Notebook, Rstudio  
-Operating Systems - Windows, iOS, Android, Ubuntu, macOS, Linux  
+
+#### Software Development
+Programming - Python, C++, C#, C, Matlab/Octave, Java, Regex, SQL  
+Libraries - Numpy, Matplotlib, Pytorch, Plotly, Pandas, Scikit, Dash, Tensorflow  
+Documentation - user guides, requirements, APIs (Sphinx), installation, process  
+Development environments - PyCharm, Jupyter Notebook, RStudio, Visual Studio  
+Testing - Unit (PyUnit), Operational, A/B, Doctests  
+Version control - Git, Github, Bitbucket, Subversion  
+
+#### Machine Learning
+Interests - artificial neural networks, computer vision, deep learning, NLP  
+Models - ANN, classification, regression, forest/ensemble, generative  
+Skills - visualization, vectorization, research, encoding  
+Feature engineering - cleaning, imputation, normalization, transformation  
+Data sets - MNIST, Wordnet, Black Box, Kaggle House, ImageNet  
+
+#### Information Technology
+Operating Systems - Windows, iOS, Android, Ubuntu, macOS  
+Web development - DOM, Markdown, HTML, XML, CSS, JSON, D3, Heroku  
+Hardware - desktop, mobile, Audio/Visual, printing, network  
+System Administration - AD, Exchange, Entrust, Exchange, O365, Airwatch  
+Content Management Systems - Wordpress, ServiceNow, Sharepoint, Drupal  
+Deployment - SCCM, Airwatch, SmartDeploy, Containerization (Docker), VMware  
 Networking - Cisco, Unity (VoIP), CCNA (Expired)  
-Web development - Markdown, HTML, XML, CSS, D3, Heroku, AWS  
-Database - PostgreSQL, SQL, SQLServer  
-Containerization - Docker, Kubernetes  
 
 
 ## Recent projects
-**Self-organizing Recurrent Networks**  
+**Self-Organizing Recurrent Networks**  
 Private Repository (more information on request) — 2019 to Present  
-A framework for experimenting with various methods of self-organization and recurrent neural network signal
-processing.  
+A framework for experimenting with various methods of self-organization and recurrent neural network signal processing.  
 
 **Animated Matplotlib Visualizations**  
-[github.com/kotulc/visualizations](https://github.com/kotulc?tab=repositories) — 2019 to Present  
-A framework for displaying and animating collections of Matplotlib components. 
+[github.com/kotulc/visualizations](https://github.com/kotulc/visualizations) — 2019 to Present  
+A framework for displaying and animating collections of Matplotlib components.  
 
 **Visualizations and Related Notebooks**  
 [github.com/kotulc/notebooks](https://github.com/kotulc/notebooks) — 2020  
@@ -46,7 +53,7 @@ Jupyter notebooks focusing on machine learning and data visualizations.
 
 **Adaptive ML Pipeline**  
 [bitbucket.org/kotulc/pipeline](https://bitbucket.org/kotulc/pipeline/) — 2019  
-An automated Machine Learning pipeline built with Scikit-learn.  
+An automated Machine Learning pipeline built with Scikit-learn.
 
 **Front Range Wheel Works**  
 [frwheelworks.com](https://www.frwheelworks.com/) — 2017  
@@ -57,22 +64,22 @@ Concept wheel building and storefront site. Wordpress, PHP and Woocommerce. Rece
 **Technical Support Specialist Sr.**  
 Jefferson County Public Health  
 *Lakewood, CO — 2012 to Present*  
-System administration, purchasing, inventory management, configuration, deployment, troubleshooting, training, documentation and project support.  
+Central role in a lead position involving system administration, purchasing, inventory management, configuration, deployment, troubleshooting, training, documentation and project support.   
 
 **Functional Consultant**  
 Compusearch Software Systems  
 *Dulles, VA — 2010 to 2012*  
-Support for the PRISM ERP, including reporting, documentation, and tier I and II software support.  
+Provided support for the PRISM acquisition and procurement ERP. Primary responsibilities included generating reports, documentation, feature planning and tier I/II software support.  
 
 **Research Assistant**  
 Rensselaer Polytechnic Institute  
 *Troy, NY — 2008 to 2010*  
-Assisted in the design, development, and testing of an educational application framework written in Java.  
+Assisted in the design, development, documentation and testing of a culturally-focused educational application framework written in Java. Included work with applet-based 3D rendering.  
 
 **Software Development Intern**  
 The Ayco Company, L.P.  
 *Albany, NY — 2008 to 2009*  
-Updated financial portal security; tracked, tested, and documented software updates. ASP.NET and C# Programming experience.  
+Updated security for the client-side financial portal; tracked, tested, documented and deployed software updates in a small team setting. ASP.NET and C# Programming experience.   
 
 
 ## Education
