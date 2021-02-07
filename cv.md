@@ -24,7 +24,7 @@ Version control - Git, Github, Bitbucket, Subversion
 **Machine Learning**  
 Interests - artificial neural networks, computer vision, deep learning, NLP  
 Models - ANN, classification, regression, forest/ensemble, generative  
-Skills - visualization, vectorization, research, encoding  
+Skills - visualization, vectorization, research, encoding, optimization  
 Feature engineering - cleaning, imputation, normalization, transformation  
 Data sets - MNIST, Wordnet, Black Box, Kaggle House, ImageNet  
 
