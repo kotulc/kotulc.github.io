@@ -23,17 +23,19 @@ For ease of use, it is recommended that you setup a virtual environment to insta
 If you haven't worked with virtual envionrmnets before, you may use a platform like [Anaconda or Miniconda](https://docs.anaconda.com/).
 
 
-### Installation
-Use the included requirements.txt to install all required dependencies:
+## Installation
+Use the included requirements.txt to install all required dependencies:  
+    
     pip install -r requirements.txt
     
-Alternatively, if you want to run just the base subnet_plot module, you may be able to simply install Matplotlib:
+Alternatively, if you want to run just the base subnet_plot module, you may be able to simply install Matplotlib:  
+    
     pip install Matplotlib
     
 Once you have installed the dependencies you can run some sample animations by calling subnet_plot. See the [latest documentation](https://visualizations.readthedocs.io/en/latest/) for more details.  
 
 
-### Subplot Components
+## Subplot Components
 A small selection of custom components are included to serve as an example of how to implement Matplotlib objects into this framework.  See below for a brief description of each class along with links to the relevant Matplotlib documentation.  
 
 ![line_bar_plot](/images/line_bar_plot.png)  
@@ -45,12 +47,12 @@ The bar subplot displays primary elements using the supplied colormap while disp
 
 ![bar_plot](/images/bar_plot.png)  
 
-The SubplotBar class is based on the [Matplotlib bar](https://matplotlib.org/api/_as_gen/matplotlib.axes.Axes.bar.html) object.
+The SubplotBar class is based on the [Matplotlib bar](https://matplotlib.org/api/_as_gen/matplotlib.axes.Axes.bar.html) object.  
 
 #### Line subplot 
-The line subplot combines the basic line and bar plots. The optional bar data source is rendered behind the primary line data.
+The line subplot combines the basic line and bar plots. The optional bar data source is rendered behind the primary line data.  
 
-![line_plot](/images/line_plot.png)
+![line_plot](/images/line_plot.png)  
 
 The `SubplotLine` class is based on the [Matplotlib plot](https://matplotlib.org/api/_as_gen/matplotlib.axes.Axes.plot.html) object.  
 
