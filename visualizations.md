@@ -14,7 +14,7 @@ Find the source for this project on [Github](https://github.com/kotulc/visualiza
 ## Getting Started
 View the [latest documentation](https://visualizations.readthedocs.io/en/latest/) built with Sphinx hosted by [ReadTheDocs](https://readthedocs.org/).
 
-Before using this framework, it is strongly suggested that you start by familiarizing yourself with Matplotlib's pyplot interface using the following [Matplotlib tutorial] (https://matplotlib.org/3.1.1/tutorials/introductory/pyplot.html).  
+Before using this framework, it is strongly suggested that you start by familiarizing yourself with Matplotlib's pyplot interface using the following [Matplotlib tutorial](https://matplotlib.org/3.1.1/tutorials/introductory/pyplot.html).  
 
 For ease of use, it is recommended that you setup a virtual environment to install and run this framework. 
 
@@ -46,7 +46,7 @@ The bar subplot displays primary elements using the supplied colormap while disp
 
 ![bar_plot](/images/bar_plot.png)  
 
-The SubplotBar class is based on the [Matplotlib bar](https://matplotlib.org/api/_as_gen/matplotlib.axes.Axes.bar.html) object.  
+The `SubplotBar` class is based on the [Matplotlib bar](https://matplotlib.org/api/_as_gen/matplotlib.axes.Axes.bar.html) object.  
 
 
 #### Line subplot 
