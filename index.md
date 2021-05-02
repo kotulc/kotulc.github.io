@@ -2,9 +2,13 @@
 layout: default
 ---
 
-# About Me
+# About
 
-One important lesson that I have learned working in technology is that you are never finished learning.  New standards, systems, problems and opportunities are the norm in this environment.  If there is one consistent thread tying my personal, professional, and academic lives together, it's the act of exploring a previously mysterious domain and finding new insights, challenges, and rewards that enrich my understanding of the world.  I have found that active, hands-on exploration is one of the most effective ways to learn a new skill or trade and that working in this field is more of a continuing journey than a lone mountain to be climbed and conquered.
+With over a decade of professional experience working within the technology industry, I am thankful to draw insight from various perspectives and roles including software development, quality assurance, system design, system administration, technical support, and project management.
+
+I have been fascinated with advances in automation, AI, and machine learning ever since I was a student. In particular, recent research concerning concepts and principles from biological systems applied to their artificial counterparts has been a core focus.  
+
+One important lesson that I have learned while working in the technology field is that you are never finished learning.  New standards, systems, problems and opportunities are the norm in this environment.  If there is one consistent thread tying my personal, professional, and academic lives together, it's the act of exploring a previously mysterious domain and finding new insights, challenges, and rewards that enrich my understanding of the world.  I have found that active, hands-on exploration is one of the most effective ways to learn a new skill or trade and that working in this field is more of a continuing journey than a lone mountain to be climbed and conquered.
 
 *Professionally,* working in an environment where approaching issues and projects requires a mix of technical, communication, and collaborative skills has shaped my problem solving approach. Collecting information, troubleshooting, design, and implementation all rely on consistent communication between any and all parties involved in the process. In my opinion, communication is possibly the most important skill for any technologist; though it is often one of the most overlooked.
 
