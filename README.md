@@ -1,5 +1,5 @@
 # kotulc.github.io
-Clays Github project website.  
+Kotulc's Github project website.  
 
 ## Description
 
