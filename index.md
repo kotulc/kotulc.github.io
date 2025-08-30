@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About
+# Summary
 
 With over a decade of professional experience working within the technology industry, I am thankful to draw insight from various perspectives and roles including software development, quality assurance, system design, system administration, technical support, and project management.
 
